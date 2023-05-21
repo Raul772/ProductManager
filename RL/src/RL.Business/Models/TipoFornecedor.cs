@@ -1,4 +1,4 @@
-﻿namespace AppMvcBasica.Models
+﻿namespace RL.Business.Models
 {
     public enum TipoFornecedor
     {

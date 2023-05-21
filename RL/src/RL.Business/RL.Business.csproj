@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="Interfaces\" />
     <Folder Include="Notifications\" />
     <Folder Include="Services\" />
     <Folder Include="Validations\" />
